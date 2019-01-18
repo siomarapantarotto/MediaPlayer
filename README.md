@@ -1,4 +1,4 @@
-# MEDIA PLAYER
+# MediaPlayer
 
 ## Table of contents
 * [General info](#general-info)
