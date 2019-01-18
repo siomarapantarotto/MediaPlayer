@@ -27,4 +27,4 @@ Contributions are more than welcome!
 
 siomara.com.br
 
-![Optional Text](../master/app/src/main/res/readme-images/mediaplayer_workspace.png)
+![Optional Text](../master/app/src/main/res/readme-screenshots/mediaplayer_workspace.png)
