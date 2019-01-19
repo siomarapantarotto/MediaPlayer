@@ -1,4 +1,4 @@
-# <kbd><img src="../master/app/src/main/res/readme-screenshots/mediaplayer_workspace.png" width="40" height="20"/></kbd>  Media Player
+# <kbd><img src="../master/app/src/main/res/readme-screenshots/mediaplayer_workspace.png" width="100" height="50"/></kbd>  Media Player
 
 
 ## Table of contents
@@ -10,7 +10,7 @@
 
 
 ## General info
-Media Player is an ANDROID APP SAMPLE that shows how to make use of audio resources.
+"MediaPlayer" is an ANDROID APP SAMPLE that shows how to make use of audio resources.
 More detailed documentation can be found directly on the code.
 
 
@@ -29,9 +29,9 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## Thanks and how to contribute
-Thanks for spending some time viewing Media Player APP!
+Thanks for spending some time viewing "MediaPlayer" project!
 
-Contributions are more than welcome.
+Contributions are more than welcome!
 
 Please, feel free to contact me for more information.
 
