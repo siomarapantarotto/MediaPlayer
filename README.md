@@ -1,4 +1,4 @@
-# <kbd><img src="../master/app/src/main/res/readme-screenshots/mediaplayer_workspace.png" width="100" height="50"/></kbd>  Media Player
+# <kbd><img src="../master/app/src/main/res/readme-screenshots/mediaplayer_workspace.png" width="100" height="70"/></kbd>  Media Player
 
 
 ## Table of contents
@@ -29,7 +29,7 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## Thanks and how to contribute
-Thanks for spending some time viewing "MediaPlayer" project!
+Thanks for spending some time viewing "MediaPlayer" APP!
 
 Contributions are more than welcome!
 
