@@ -15,7 +15,7 @@ More detailed documentation can be found directly on the code.
 
 
 ## Technologies
-Project is created with:
+The project is created with:
 * Android Studio version 3.2
 * Java
 
