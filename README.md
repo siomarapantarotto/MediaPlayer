@@ -1,4 +1,4 @@
-# <kbd><img src="../master/app/src/main/res/readme-screenshots/mediaplayer_workspace.png" width="100" height="70"/></kbd>  Media Player
+# <kbd><img src="../master/app/src/main/res/readme-screenshots/mediaplayer_workspace.png" width="135" height="96"/></kbd>  Media Player
 
 
 ## Table of contents
