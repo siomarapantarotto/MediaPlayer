@@ -1,4 +1,4 @@
-# MediaPlayer
+# <kbd><img src="../master/app/src/main/res/readme-screenshots/mediaplayer_workspace.png" width="40" height="20"/></kbd>  Media Player
 
 
 ## Table of contents
@@ -29,7 +29,7 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## Thanks and how to contribute
-Thanks for spending some time viewing ATM Consulting APP!
+Thanks for spending some time viewing Media Player APP!
 
 Contributions are more than welcome.
 
