@@ -25,7 +25,7 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## App screenshot
-<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/MediaPlayer/mediaplayer.png" width="133" height="260"/></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/MediaPlayer/mediaplayer.png" width="150" height="260"/></kbd>
 
 
 ## Thanks and how to contribute
