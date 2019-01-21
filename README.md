@@ -1,10 +1,11 @@
-# <kbd><img src="../master/app/src/main/res/readme-screenshots/mediaplayer_workspace.png" width="130" height="90"/></kbd>  Media Player
+# <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/MediaPlayer/mediaplayer.png" width="130" height="90"/></kbd>  Media Player
 
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Device screenshot](#device-screenshot)
 * [Workspace screenshot](#workspace-screenshot)
 * [Thanks and how to contribute](#thanks-and-how-to-contribute)
 
@@ -24,8 +25,12 @@ The project is created with:
 To run this project, just download the project directory to your "AndroidStudioProjects" folder and run it.
 
 
+## Device screenshot
+![Optional Text]("https://github.com/siomarapantarotto/readme-screenshots/blob/master/MediaPlayer/mediaplayer_device.png")
+
+
 ## Workspace screenshot
-![Optional Text](../master/app/src/main/res/readme-screenshots/mediaplayer_workspace.png)
+![Optional Text]("https://github.com/siomarapantarotto/readme-screenshots/blob/master/MediaPlayer/mediaplayer_workspace.png")
 
 
 ## Thanks and how to contribute
