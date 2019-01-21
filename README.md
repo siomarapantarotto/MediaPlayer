@@ -1,4 +1,4 @@
-# <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/MediaPlayer/mediaplayer_device.png" width="50" height="100"/></kbd>  Media Player
+# <img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/MediaPlayer/mediaplayer_device.png" width="50" height="100"/>  Media Player
 
 
 ## Table of contents
